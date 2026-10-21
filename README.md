@@ -68,3 +68,4 @@ Tipografi menggunakan SF Pro sebagai prioritas (`SF Pro Display`, `SF Pro Text`)
 ## Batasan demo
 
 Aplikasi ini ditujukan untuk demo lokal, belum untuk penggunaan operasional langsung. Belum tersedia login/otorisasi pengguna, audit trail admin, pembatalan nota/transaksi, API server, sinkronisasi banyak kasir, pajak, integrasi akuntansi, backup otomatis, maupun notifikasi push. Untuk operasional sungguhan, tambahkan autentikasi dan hak akses, backup, log audit, aturan pembatalan yang konsisten, validasi satuan, dan uji beban sesuai kebutuhan.
+# Sistem-Informasi
